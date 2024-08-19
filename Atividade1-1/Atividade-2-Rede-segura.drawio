@@ -236,6 +236,9 @@
         <mxCell id="0iclgFqn2qMgcagahvfT-3" value="Firewall" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="250" y="728" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LgcFKoKegvaUtN4iuPjX-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0iclgFqn2qMgcagahvfT-4" target="LgcFKoKegvaUtN4iuPjX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0iclgFqn2qMgcagahvfT-4" value="Firewall" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="467.5" y="746" width="60" height="30" as="geometry" />
         </mxCell>
@@ -282,6 +285,9 @@
         </mxCell>
         <mxCell id="LgcFKoKegvaUtN4iuPjX-1" value="Liberação da porta 443&amp;nbsp;&lt;br&gt;Liberação da porta 80&lt;div&gt;Liberação do meil server&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="171" y="788" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LgcFKoKegvaUtN4iuPjX-3" value="Liberação da porta 22" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="401.55" y="803" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
