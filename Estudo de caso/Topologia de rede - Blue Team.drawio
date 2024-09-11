@@ -333,7 +333,7 @@
           <mxGeometry x="1455" y="1159.4099999999999" width="105" height="105" as="geometry" />
         </mxCell>
         <mxCell id="ycOKUtjSCVIA1wZMmQ7p-72" value="192.168.98.0/27" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="2310" y="220" width="140" height="30" as="geometry" />
+          <mxGeometry x="1717" y="210" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ycOKUtjSCVIA1wZMmQ7p-75" value="Firewall" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;rounded=0;shadow=0;comic=0;" parent="1" vertex="1">
           <mxGeometry x="2018" y="1019" width="100" height="100" as="geometry" />
